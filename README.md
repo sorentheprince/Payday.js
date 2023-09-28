@@ -9,7 +9,7 @@ This JavaScript script calculates the date of the next payday and displays a run
 3. Open your terminal and navigate to the directory containing the script.
 4. Run the script using the command:
 node Payday.js
-5. The script will display the next payday date and a countdown of days until the next payday. It will update the countdown every second.
+5. The script will display the next payday date and a countdown of days until the next payday.
 
 ## Script Explanation
 
@@ -20,8 +20,8 @@ node Payday.js
 **Acknowledgements:**
 - Special thanks to the following resources for their invaluable guides and documentation:
 - [Node.js | Documentation](https://nodejs.org/en/docs)
-- [JavaScript | MDN] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScript Get Date Methods] (https://www.w3schools.com/js/js_date_methods.asp)
+- [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JavaScript Get Date Methods](https://www.w3schools.com/js/js_date_methods.asp)
 
 **This project has been created as a part of my internship application requirement.**
   
